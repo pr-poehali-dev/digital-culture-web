@@ -21,14 +21,8 @@ const DeveloperInfo = () => {
               профессиональной деятельности"
             </p>
             <div className="flex justify-center space-x-6 pt-4">
-              <div className="flex items-center text-gray-600">
-                <Icon name="Calendar" size={16} className="mr-2" />
-                2024
-              </div>
-              <div className="flex items-center text-gray-600">
-                <Icon name="Code" size={16} className="mr-2" />
-                React + TypeScript
-              </div>
+              <div className="flex items-center text-gray-600">2025</div>
+              <div className="flex items-center text-gray-600"></div>
             </div>
           </CardContent>
         </Card>
