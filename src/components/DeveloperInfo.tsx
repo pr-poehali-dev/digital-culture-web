@@ -14,7 +14,7 @@ const DeveloperInfo = () => {
           </CardHeader>
           <CardContent className="space-y-4">
             <p className="text-lg text-gray-700">
-              <strong>Студент группы ЭМО-21а</strong>
+              <strong>Студент группы ЭМО-21а Хорошавин Егор Денисович</strong>
             </p>
             <p className="text-gray-600">
               Проект выполнен в рамках изучения дисциплины "Цифровая культура в
